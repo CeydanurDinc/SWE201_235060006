@@ -18,8 +18,3 @@ Additionally, the ToString() function is overridden to allow easy printing of th
 In the Main function, objects can be created using either constructor.
 Default constructor objects can have their properties set later, while parameterized constructor objects are initialized immediately.
 Displaying the objects through the member function or ToString() demonstrates how constructors, properties, and methods work together to manage object state effectively.
-
-
-Code Reuse: Display logic is implemented in methods so it can be reused anywhere.
-
-Flexible Object Creation: Both default and parameterized constructors allow safe and convenient creation of objects.
